@@ -1,4 +1,4 @@
-#! /usr/bin/env node
+#!/usr/bin/env node
 
 if (!process.env.TRAVIS_REPO_SLUG) {
   process.exit(0);
